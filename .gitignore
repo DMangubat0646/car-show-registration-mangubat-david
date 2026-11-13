@@ -1,0 +1,16 @@
+# .NET build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# Node / React (Vite)
+node_modules/
+dist/
+
+# Local SQLite database files (created when the API runs)
+*.db
+*.db-shm
+*.db-wal
